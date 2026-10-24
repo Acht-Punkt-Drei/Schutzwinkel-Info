@@ -1,6 +1,6 @@
-# Schutzwinkel – Datenschutz und Support
+# Blitzschutzwinkel – Datenschutz und Support
 
-Statische Informationsseiten zur App Schutzwinkel. Anbieter und Datenschutzkontakt: Jörn Schlünzen, schutzwinkel@moin-moin.com.
+Statische Informationsseiten zur App Blitzschutzwinkel. Anbieter und Datenschutzkontakt: Jörn Schlünzen, schutzwinkel@moin-moin.com.
 
 - Datenschutz: https://acht-punkt-drei.github.io/Schutzwinkel-Info/datenschutz/
 - Support: https://acht-punkt-drei.github.io/Schutzwinkel-Info/support/

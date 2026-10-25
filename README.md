@@ -9,4 +9,4 @@ Diese Dateien sind die Quelle für das öffentliche Repository `Acht-Punkt-Drei/
 
 Die Angaben beschreiben den technischen Stand der App 0.1 am 24.10.2026. Änderungen an Datennutzung, Diensten oder Kontaktangaben müssen in App und Seiten gemeinsam nachgeführt werden.
 
-Idee: Reinhard Schüngel · Umsetzung: Jörn Schlünzen.
+Umsetzung: Jörn Schlünzen.
